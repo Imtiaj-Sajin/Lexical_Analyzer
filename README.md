@@ -1,4 +1,4 @@
 # Lexical_Analyzer
 <b> Output
 
-![image](https://github.com/Imtiaj-Sajin/Lexical_Analyzer/assets/100506477/2839b064-a498-4588-94e2-589ddda9fd14)
+![image](https://github.com/Imtiaj-Sajin/Lexical_Analyzer/assets/100506477/230b641d-bdbb-4837-ac6b-2972255173e5)
